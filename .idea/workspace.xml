@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0923aeb2-6d7b-4bf9-a9fe-f30482fc7d70" name="Changes" comment="eii4@njit.edu&#10;Everest Ibewuike">
-      <change beforePath="$PROJECT_DIR$/my-first-web.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-first-web.page.html" afterDir="false" />
-    </list>
+    <list default="true" id="0923aeb2-6d7b-4bf9-a9fe-f30482fc7d70" name="Changes" comment="eii4@njit.edu&#10;Everest Ibewuike" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +63,7 @@
   }
 }</component>
   <component name="RunManager">
-    <configuration name="my-first-web.page.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/A04/my-first-web.page.html" useBuiltInWebServerPort="true">
+    <configuration name="my-first-web-page.html" type="JavascriptDebugType" uri="http://localhost:63342/A04/my-first-web-page.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
   </component>
@@ -85,7 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1728487542604</updated>
       <workItem from="1728487543963" duration="3673000" />
-      <workItem from="1728491899679" duration="4312000" />
+      <workItem from="1728491899679" duration="4908000" />
     </task>
     <task id="LOCAL-00001" summary="eii4@njit.edu&#10;Everest Ibewuike">
       <option name="closed" value="true" />
@@ -95,7 +93,23 @@
       <option name="project" value="LOCAL" />
       <updated>1728489424546</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="eii4@njit.edu&#10;Everest Ibewuike">
+      <option name="closed" value="true" />
+      <created>1728918946248</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728918946248</updated>
+    </task>
+    <task id="LOCAL-00003" summary="eii4@njit.edu&#10;Everest Ibewuike">
+      <option name="closed" value="true" />
+      <created>1728919011105</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728919011105</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
