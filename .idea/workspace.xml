@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0923aeb2-6d7b-4bf9-a9fe-f30482fc7d70" name="Changes" comment="eii4@njit.edu&#10;Everest Ibewuike">
-      <change beforePath="$PROJECT_DIR$/my-first-web-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-first-web-page.html" afterDir="false" />
-    </list>
+    <list default="true" id="0923aeb2-6d7b-4bf9-a9fe-f30482fc7d70" name="Changes" comment="eii4@njit.edu&#10;Everest Ibewuike" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,7 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1728487542604</updated>
       <workItem from="1728487543963" duration="3673000" />
-      <workItem from="1728491899679" duration="9530000" />
+      <workItem from="1728491899679" duration="9858000" />
     </task>
     <task id="LOCAL-00001" summary="eii4@njit.edu&#10;Everest Ibewuike">
       <option name="closed" value="true" />
@@ -152,7 +150,23 @@
       <option name="project" value="LOCAL" />
       <updated>1728928381016</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="eii4@njit.edu&#10;Everest Ibewuike">
+      <option name="closed" value="true" />
+      <created>1728930665001</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1728930665001</updated>
+    </task>
+    <task id="LOCAL-00010" summary="eii4@njit.edu&#10;Everest Ibewuike">
+      <option name="closed" value="true" />
+      <created>1728930970904</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1728930970905</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
